@@ -1,0 +1,109 @@
+.sec{
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.one1,.two2,.three3{
+border: 2px solid blue;
+}
+.one1{
+    flex: 2;
+}
+
+
+.two2{
+color: white;
+flex: 3;
+}
+
+.three3{
+    flex: 1;
+}
+.roe{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.dani{
+    flex: 2;
+}
+.dani1{
+    flex: 2;
+}
+
+.b{
+    background-color: blue;
+    color: white;
+display: flex;
+flex-direction: row;
+justify-content: space-around;    
+}
+
+
+.para1{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+button:active{
+    background-color: blue;
+    cursor: pointer;
+}
+   .but{
+       background-color: blue ;
+   }
+
+.blue{
+    color: blue;
+}
+.green{
+    color: greenyellow;
+}
+.p1.p2.p3.p4{
+    text-align: justify;
+}
+.div2{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+h2{
+    color:blue;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.flex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px;
+}
+  .one,.two,.three,.four,.five,.six{
+    border: 2px solid  white;
+    text-align: justify;
+ box-shadow: 5px 5px 5px gray;
+     border: 2px 2px 2px;
+     width: 200px;
+} 
+
+
+ .flex3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+} 
+ .upcoming{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+ }
+
